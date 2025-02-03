@@ -7,7 +7,6 @@ Pig E. Bank, a prominent global financial institution, is seeking analytical sup
 * Information: Customer ID, credit score, country, gender, age, tenure, balance, number of products, credit card ownership or active membership status, and estimated salary.
 # Folders
 Description of folder contents are as follows:
-* 01 Project Management: Contains the project brief and related documentation.
 * 02 Data: Includes two subfolders:
 * 'Original Data': Original datasets.
 * 'Prepared Data': Cleaned data ready for analysis.
